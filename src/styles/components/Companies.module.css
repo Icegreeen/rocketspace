@@ -1,0 +1,20 @@
+
+
+/*.companies {
+    height: 100vh;
+    max-width: 992px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+
+    display: flex;
+
+}
+
+.companies div img {
+    display: flex;
+}
+
+.companies img {
+    max-width: 90%;
+}
+*/
